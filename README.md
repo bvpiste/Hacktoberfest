@@ -4,3 +4,4 @@
 * Whether you’re a seasoned contributor or looking for projects to contribute to for the first time, you’re welcome to participate.
 * You can sign up anytime between October 1 and October 31. Just be sure to sign up on the official Hacktoberfest website for your Pull     requests to count.
 * This year(2018), to get a T-Shirt, you must make five pull requests (PRs) between October 1–31 in any timezone and the first 50,000 can   earn a T-shirt (compared with 30,000 in 2017).
+* Here is the official Hacktoberfest website: https://hacktoberfest.digitalocean.com/
